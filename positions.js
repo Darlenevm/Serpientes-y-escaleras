@@ -11,7 +11,7 @@ export default class Positions{
         this.position += position;
     }
 
-    newPosition(){
+    newPosition(position){
         this.position = position;
     }
 
